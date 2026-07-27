@@ -1,2 +1,3 @@
-# curextec-website
-Official website of CUREXTEC
+# CUREXTEC
+
+Premium E-Commerce Growth Agency
